@@ -1,0 +1,6 @@
+{
+  "name": "HabitFlow",
+  "description": "Modern habit tracker to build positive daily habits, maintain streaks, and visualize progress.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
